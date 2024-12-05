@@ -1,0 +1,5 @@
+-   id: sqruff-format
+    name: sqruff-format
+    description: "Run sqruff formatter"
+    entry: sqruff fix --force
+    language: python

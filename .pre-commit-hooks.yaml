@@ -3,3 +3,4 @@
     description: "Run sqruff formatter"
     entry: sqruff fix --force
     language: python
+    types_or: [sql]
